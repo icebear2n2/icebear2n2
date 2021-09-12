@@ -7,7 +7,7 @@
 * Infrastructure as code
 
 ### Skills
-<img src="https://img.shields.io/badge/AWS-#FF4500?style=flat-square&logo=AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-#FF4500?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 
 
 
