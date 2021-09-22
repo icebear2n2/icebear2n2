@@ -29,6 +29,14 @@
 <br/>
 <br/>
 
+<h3 align="left">Certificate</h3>
+<p align="left">
+<img src="/img/AWS-SAA-b.png">
+</p>
+
+<br/>
+<br/>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icebear2n2&show_icons=true&locale=en&layout=compact" alt="icebear2n2" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icebear2n2&show_icons=true&locale=en" alt="icebear2n2" /></p>
