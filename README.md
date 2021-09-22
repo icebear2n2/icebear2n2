@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/수정-현-4882471b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="수정-현-4882471b9" height="30" width="40" /></a>
 <a href="https://instagram.com/icebear2n2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="icebear2n2" height="30" width="40" /></a>
-<a href="https://discord.gg/icebear2n2#2437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="icebear2n2#2437" height="30" width="40" /></a>
+<a href="https://discord.gg/icebear2n2#2437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QQRw6zH4" height="30" width="40" /></a>
 </p>
 
 <br/>
