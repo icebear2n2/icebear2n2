@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icebear2n2&label=Profile%20views&color=0e75b6&style=flat" alt="icebear2n2" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing, JavaScript, Linux, Network, Docker**
+- 🌱 I’m currently learning **Backend Development, DevOps**
 
 - 📝 I regularly write articles on <a href="https://icebear2n2.github.io/">**Sujeong's Blog**</a>
 
