@@ -31,7 +31,7 @@
 
 <h3 align="left">Certificate</h3>
 <p align="left">
-<img src="/img/AWS-SAA-b.png">
+<img width=400 src="/img/AWS-SAA-b.png">
 </p>
 
 <br/>
