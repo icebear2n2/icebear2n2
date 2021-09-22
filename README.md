@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"><img src="https://img.shields.io/badge/linux-696969?style=for-the-badge&logo=linux&logoColor=black"><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>.
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icebear2n2&show_icons=true&theme=dark)
 
 <!-- 깃헙 레포 사용 언어 수 -->
 <img src="https://img.shields.io/icebear2n2/languages/count/beygee/survive">
