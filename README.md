@@ -29,6 +29,7 @@
 
 <h3 align="left">Certificate:</h3>
 <p align="left">
+<img width=200 src="/img/AWS-Cloud.png">
 <img width=200 src="/img/AWS-SAA-b.png">
 </p>
 
