@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sujeong Hyun</h1>
-<h3 align="center">A passionate Student from Republic Of Korea</h3>
+<h3 align="center">A passionate Student from Republic of Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icebear2n2&label=Profile%20views&color=0e75b6&style=flat" alt="icebear2n2" /> </p>
 
 - 🌱 I’m currently learning **Cloud Computing, JavaScript, Linux, Network, Docker**
 
-- 📝 I regularly write articles on [https://icebear2n2.github.io/](https://icebear2n2.github.io/)
+- 📝 I regularly write articles on <a href="https://icebear2n2.github.io/">**Sujeong's Blog**</a>
 
-- 💬 Ask me about **Cloud Computing**
+- 📫 How to reach me **<icebear2n2@gmail.com>**
 
-- 📫 How to reach me **icebear2n2@gmail.com**
-
-<br/>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
@@ -23,7 +20,6 @@
 </p>
 
 <br/>
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -33,7 +29,7 @@
 <br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icebear2n2&show_icons=true&locale=en&layout=compact" alt="icebear2n2" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icebear2n2&show_icons=true&locale=en&layout=compact" alt="icebear2n2" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icebear2n2&show_icons=true&locale=en" alt="icebear2n2" /></p>
 
