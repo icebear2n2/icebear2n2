@@ -13,7 +13,7 @@
 
 
 <!-- 깃헙 레포 사용 언어 수 -->
-<img src="https://img.shields.io/github.com/icebear2n2/languages/count/beygee/survive">
+<img src="https://img.shields.io/icebear2n2/languages/count/beygee/survive">
 <!-- 깃헙 레포 최다빈도 언어 -->
 <img src="https://img.shields.io/https://github.com/icebear2n2/languages/top/beygee/survive">
 <!-- 깃헙 레포 코드 용량 -->
