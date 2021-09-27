@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on <a href="https://icebear2n2.github.io/">**Sujeong's Blog**</a>
 
-- 📫 How to reach me **<icebear2n2@gmail.com>**
+- 📫 How to reach me **<hyunsujeong03@naver.com>**, **<icebear2n2@gmail.com>**
 
 <br/>
 
