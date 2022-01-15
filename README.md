@@ -29,7 +29,7 @@
 <h3 align="left">Certificate:</h3>
 <p align="left">
 <img width=200 src="https://user-images.githubusercontent.com/87232411/149051152-b90a38bd-447f-47a7-94ee-5bc50c23b1ce.png">
-<img width=200 src="https://user-images.githubusercontent.com/87232411/149051147-92c010a3-137b-4e4b-a2f1-fbcdd88b9de0.png">
+<img width=200 src="https://user-images.githubusercontent.com/87232411/149619808-d5bf830d-8006-4605-9f7e-2f34256d2e03.png">
 <img width=200 src="https://user-images.githubusercontent.com/87232411/149619772-8662898a-5655-43a2-b2b1-2aec6b1030f6.png">
 
 </p>
