@@ -4,7 +4,7 @@
 
 -I’m currently learning **Cloud Computing, Back-End Development**
 
--I regularly write articles on <a href="https://icebear2n2.github.io/">**Sujeong's Blog**</a>
+-I regularly write articles on <a href="https://velog.io/@icebear2n2">**Sujeong's Blog**</a>
 
 -How to reach me **<hyunsujeong03@naver.com>**, **<icebear2n2@gmail.com>**
 
