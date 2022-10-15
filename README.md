@@ -3,11 +3,13 @@
 <br/>
 <br/>
 
+<a href="https://github.com/icebear2n2/github-stats">
+<img src="https://github.com/icebear2n2/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/icebear2n2/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+
 #### `Skills`
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,bash,linux,vim,jenkins,gradle,docker,kubernetes,react,python,javascript,nodejs,git,nginx&theme=dark" />
   </a>
 </p>
-
-![](https://raw.githubusercontent.com/icebear2n2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
