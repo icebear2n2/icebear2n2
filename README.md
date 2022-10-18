@@ -6,7 +6,7 @@
 #### `Skills`
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,linux,vim,jenkins,gradle,docker,kubernetes,react,python,javascript,nodejs,git,nginx&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,linux,vim,jenkins,gradle,docker,kubernetes,python,javascript,react,nodejs,git,nginx&theme=dark" />
   </a>
 </p>
 <br/>
