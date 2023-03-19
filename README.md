@@ -29,3 +29,4 @@ Born in **Republic of Korea 🇰🇷**,  _November 2003_
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=icebear2n2&theme=chartreuse-dark&show_icons=true" width=400 align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icebear2n2&exclude_repo=icebear2n2.github.io,AFOS,icebear2n2&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
