@@ -13,8 +13,12 @@ Born in **Republic of Korea 🇰🇷**,  _November 2003_
     - Operation and Maintenance of AWS Elemental Appliances & Software
 
 #### The Cyber University of Korea
-  - **BE, Department of Software Engineering**  _2023. 03 ~ current_  
-  
+  - **BE, Department of Software Engineering**  _2023. 03 ~ current_
+
+#### PLAY DATA - MSA engineer training course for high-capacity service (Back-End)
+  - **Boot Camp**  _2023.05.22 ~ 2023.11.20(current)_
+
+
 <br/>
 
 ### Certificate
