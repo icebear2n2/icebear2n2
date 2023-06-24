@@ -6,21 +6,6 @@ Born in **Republic of Korea 🇰🇷**,  _November 2003_
 <br/>
 <br/>
 
-### Experiences
-
-#### DIGIBASE - Digital System Integration Company
-  - **Junior Media Technical Engineer**  _2021. 11. 22 ~ 2022. 12. 23_
-    - Operation and Maintenance of AWS Elemental Appliances & Software
-
-#### The Cyber University of Korea
-  - **BE, Department of Software Engineering**  _2023. 03 ~ current_
-
-#### PLAY DATA - MSA engineer training course for high-capacity service (Back-End)
-  - **Boot Camp Student**  _2023.05.22 ~ 2023.11.20(current)_
-
-
-<br/>
-
 ### Certificate
 
 #### AWS Certified Cloud Practitioner, _2021. 05. 25_
