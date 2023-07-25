@@ -8,12 +8,12 @@ Born in **Republic of Korea 🇰🇷**,  _November 2003_
 
 ### Certificate
 
-#### AWS Certified Cloud Practitioner, _2021. 05. 25_
+<img src="https://github.com/icebear2n2/icebear2n2/assets/87232411/55c556f3-a918-4609-b66a-fd9a94e7d6b4" width=150>
+<img src="https://github.com/icebear2n2/icebear2n2/assets/87232411/e5795a25-814c-42f8-9a0f-e3e5697ef7fe" width=150>
+<img src="https://github.com/icebear2n2/icebear2n2/assets/87232411/577028c6-8cc3-4db0-baf4-8e21be187816" width=150>
 
-#### AWS Certified Solutions Architect – Associate, _2021. 08. 31_
-
-#### AWS Certified Solutions Architect – Professional,  _2022. 01. 14_
-
+<br/>
+<br/>
 <br/>
 <br/>
 
